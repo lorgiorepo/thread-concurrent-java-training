@@ -1,4 +1,4 @@
-package com.lorgiolabs.threadconcurrent.fristsample;
+package com.lorgiolabs.threadconcurrent.firstsample;
 
 /**
  * Created by lorgiotrinidad on 13-09-17.
