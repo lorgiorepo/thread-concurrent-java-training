@@ -1,4 +1,4 @@
-package com.lorgiolabs.threadconcurrent.unsafe;
+package com.lorgiolabs.threadconcurrent.unsafe.lazytask;
 
 
 /**
