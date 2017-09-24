@@ -7,7 +7,7 @@ public class LazyInit {
 
     private Object instance = null;
 
-    public Object getInstance() {
+    public synchronized Object getInstance() {
         if(instance == null) {
             instance = new Object();
         }
